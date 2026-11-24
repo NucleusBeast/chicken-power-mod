@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "chickenpower:item/generator_casing"
+  }
+}

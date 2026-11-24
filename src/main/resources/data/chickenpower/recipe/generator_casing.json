@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "# #",
+    "#_#"
+  ],
+  "key": {
+    "#": "minecraft:glass_pane",
+    "_": "minecraft:smooth_stone_slab"
+  },
+  "result": {
+    "id": "chickenpower:generator_casing",
+    "count": 1
+  }
+}

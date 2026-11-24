@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "chickenpower:block/chicken_generator_item"
+  }
+}

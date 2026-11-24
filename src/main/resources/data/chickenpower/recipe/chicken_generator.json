@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "chickenpower:generator_gear",
+    "chickenpower:generator_casing"
+  ],
+  "result": {
+    "id": "chickenpower:chicken_generator",
+    "count": 1
+  }
+}

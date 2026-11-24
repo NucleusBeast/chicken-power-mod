@@ -1,0 +1,8 @@
+{
+  "hud.chickenpower.production": "%1$s  %2$s FE/s",
+  "itemGroup.chickenpower": "Chicken Power",
+  "block.chickenpower.chicken_generator": "Chicken Generator",
+  "block.chickenpower.generator_casing": "Generator Casing",
+  "item.chickenpower.generator_gear": "Generator Gear",
+  "item.chickenpower.tab_icon": "Chicken Power"
+}

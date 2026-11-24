@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "chickenpower:block/chicken_generator" }
+  }
+}

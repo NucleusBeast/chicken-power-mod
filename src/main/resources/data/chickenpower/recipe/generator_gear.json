@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:redstone",
+    "minecraft:coal",
+    "minecraft:paper",
+    "minecraft:lightning_rod"
+  ],
+  "result": {
+    "id": "chickenpower:generator_gear",
+    "count": 1
+  }
+}
